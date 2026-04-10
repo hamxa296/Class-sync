@@ -1,10 +1,10 @@
 {
     "faculties": [
         {
-            "faculty_name": "Faculty of Computer Science and Engineering (FCSE)",
+            "faculty_name": "FCSE",
             "programs": [
                 {
-                    "program_name": "BS Artificial Intelligence (AI)",
+                    "program_name": "BS Artificial Intelligence",
                     "semesters": [
                         {
                             "semester": 1,
@@ -344,7 +344,7 @@
                     ]
                 },
                 {
-                    "program_name": "BS Computer Science (CS)",
+                    "program_name": "BS Computer Science",
                     "semesters": [
                         {
                             "semester": 1,
@@ -674,7 +674,7 @@
                     ]
                 },
                 {
-                    "program_name": "BS Computer Engineering (CE)",
+                    "program_name": "BS Computer Engineering",
                     "semesters": [
                         {
                             "semester": 1,
@@ -1019,7 +1019,7 @@
                     ]
                 },
                 {
-                    "program_name": "BS Cyber Security (CyS)",
+                    "program_name": "BS Cyber Security",
                     "semesters": [
                         {
                             "semester": 1,
@@ -1349,7 +1349,7 @@
                     ]
                 },
                 {
-                    "program_name": "BS Data Science (DS)",
+                    "program_name": "BS Data Science",
                     "semesters": [
                         {
                             "semester": 1,
@@ -1694,7 +1694,7 @@
                     ]
                 },
                 {
-                    "program_name": "BS Software Engineering (SE)",
+                    "program_name": "BS Software Engineering",
                     "semesters": [
                         {
                             "semester": 1,
@@ -2036,7 +2036,7 @@
             ]
         },
         {
-            "faculty_name": "Faculty of Electrical Engineering",
+            "faculty_name": "FEE",
             "programs": [
                 {
                     "program_name": "BS Electrical Engineering (Robotics & Autonomous Systems)",
@@ -3541,7 +3541,7 @@
             ]
         },
         {
-            "faculty_name": "School of Management Sciences",
+            "faculty_name": "MGS",
             "programs": [
                 {
                     "program_name": "BS Management Sciences",
@@ -3846,7 +3846,7 @@
             ]
         },
         {
-            "faculty_name": "Faculty of Materials and Chemical Engineering",
+            "faculty_name": "FMCE",
             "programs": [
                 {
                     "program_name": "BS Chemical Engineering",
@@ -4561,7 +4561,7 @@
             ]
         },
         {
-            "faculty_name": "Faculty of Mechanical Engineering",
+            "faculty_name": "FME",
             "programs": [
                 {
                     "program_name": "BS Mechanical Engineering",
@@ -4926,7 +4926,7 @@
             ]
         },
         {
-            "faculty_name": "Faculty of Civil Engineering",
+            "faculty_name": "Civil Engineering",
             "programs": [
                 {
                     "program_name": "BS Civil Engineering",

@@ -1,0 +1,894 @@
+{
+    "faculties": [
+        {
+            "faculty_name": "Faculty of Computer Science and Engineering (FCSE)",
+            "programs": [
+                {
+                    "program_name": "BS Artificial Intelligence (AI)",
+                    "semesters": [
+                        {
+                            "semester": 1,
+                            "courses": [
+                                {
+                                    "code": "CS101",
+                                    "name": "Computing & Artificial Intelligence",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS101L",
+                                    "name": "Computing & Artificial Intelligence Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "HM101",
+                                    "name": "Communication Skills",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "IF101L",
+                                    "name": "Innovation & Makers Lab I",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MT101",
+                                    "name": "Calculus I",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "PH101",
+                                    "name": "Applied Physics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "PH101L",
+                                    "name": "Applied Physics Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MM101",
+                                    "name": "Materials & Nanotechnology",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MM141L",
+                                    "name": "Materials & Nanotechnology Lab",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 2,
+                            "courses": [
+                                {
+                                    "code": "CS112",
+                                    "name": "Object-oriented Programming & Design",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS112L",
+                                    "name": "Object-oriented Programming & Design Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "ES111",
+                                    "name": "Probability & Statistics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM102",
+                                    "name": "Critical Thinking & Expository Writing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "IF102L",
+                                    "name": "Innovation & Makers Lab II",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CH161",
+                                    "name": "Occupational Health & Safety",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CH101",
+                                    "name": "Applied Chemistry & Environment",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MT102",
+                                    "name": "Differential Equations & Linear Algebra I",
+                                    "ch": 3
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 3,
+                            "courses": [
+                                {
+                                    "code": "CE221",
+                                    "name": "Digital Logic Design",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CE221L",
+                                    "name": "Digital Logic Design Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS202",
+                                    "name": "Information & Communication Technologies",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS221",
+                                    "name": "Data Structures & Algorithms",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS221L",
+                                    "name": "Data Structures & Algorithms Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS231",
+                                    "name": "Discrete Mathematics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "ES205",
+                                    "name": "Advanced Linear Algebra",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "AI201L",
+                                    "name": "Programming for AI Lab",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 4,
+                            "courses": [
+                                {
+                                    "code": "AI202",
+                                    "name": "Concepts in AI",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "AI221",
+                                    "name": "Machine Learning",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "AI221L",
+                                    "name": "Machine Learning Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CE222",
+                                    "name": "Computer Organization & Assembly Language",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CE222L",
+                                    "name": "Computer Organization & Assembly Language Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "HM211",
+                                    "name": "Islamic Studies",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS232",
+                                    "name": "Database Management Systems",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS232L",
+                                    "name": "Database Management Systems Lab",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 5,
+                            "courses": [
+                                {
+                                    "code": "AI311",
+                                    "name": "Knowledge Representation & Problem Solving",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "AI331",
+                                    "name": "Deep Neural Networks",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "AI331L",
+                                    "name": "Deep Neural Networks Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS311",
+                                    "name": "Operating Systems",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS311L",
+                                    "name": "Operating Systems Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS325",
+                                    "name": "Software Engineering",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS391",
+                                    "name": "Entrepreneurship & Technology Commercialization",
+                                    "ch": 2
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 6,
+                            "courses": [
+                                {
+                                    "code": "AI341",
+                                    "name": "Computer Vision",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "AI341L",
+                                    "name": "Computer Vision Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "AI351",
+                                    "name": "Natural Language Processing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "AI351L",
+                                    "name": "Natural Language Processing Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CE313",
+                                    "name": "Computer Communications & Networks",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS392",
+                                    "name": "Software Project Management",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CX3xx",
+                                    "name": "Area Elective I",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM112",
+                                    "name": "Ideology and Constitution of Pakistan",
+                                    "ch": 2
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 7,
+                            "courses": [
+                                {
+                                    "code": "AI4xx",
+                                    "name": "Technical Elective",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS478",
+                                    "name": "Design & Analysis of Algorithms",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS481",
+                                    "name": "Senior Design Project (Part-I)",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS493",
+                                    "name": "Scientific Communication",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CX4xx",
+                                    "name": "Area Elective II",
+                                    "ch": 3
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 8,
+                            "courses": [
+                                {
+                                    "code": "CS417",
+                                    "name": "Parallel Processing & Distributed Computing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS465",
+                                    "name": "Data & Network Security",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS482",
+                                    "name": "Senior Design Project (Part II)",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS494",
+                                    "name": "Professional Issues in IT",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "HM323",
+                                    "name": "Civics and Community Engagement",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CX4xx",
+                                    "name": "Area Elective III",
+                                    "ch": 3
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "program_name": "BS Computer Science (CS)",
+                    "semesters": [
+                        {
+                            "semester": 1,
+                            "courses": [
+                                {
+                                    "code": "CS101",
+                                    "name": "Computing & Artificial Intelligence",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS101L",
+                                    "name": "Computing & Artificial Intelligence Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "HM101",
+                                    "name": "Communication Skills",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "IF101L",
+                                    "name": "Innovation & Makers Lab I",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MT101",
+                                    "name": "Calculus I",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "PH101",
+                                    "name": "Applied Physics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "PH101L",
+                                    "name": "Applied Physics Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MM101",
+                                    "name": "Materials & Nanotechnology",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MM141L",
+                                    "name": "Materials & Nanotechnology Lab",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 2,
+                            "courses": [
+                                {
+                                    "code": "CS112",
+                                    "name": "Object-oriented Programming & Design",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS112L",
+                                    "name": "Object-oriented Programming & Design Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "ES111",
+                                    "name": "Probability & Statistics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM102",
+                                    "name": "Critical Thinking & Expository Writing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "IF102L",
+                                    "name": "Innovation & Makers Lab II",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CH161",
+                                    "name": "Occupational Health & Safety",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CH101",
+                                    "name": "Applied Chemistry & Environment",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MT102",
+                                    "name": "Differential Equations & Linear Algebra I",
+                                    "ch": 3
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 3,
+                            "courses": [
+                                {
+                                    "code": "CE221",
+                                    "name": "Digital Logic Design",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CE221L",
+                                    "name": "Digital Logic Design Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS202",
+                                    "name": "Information & Communication Technologies",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS221",
+                                    "name": "Data Structures & Algorithms",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS221L",
+                                    "name": "Data Structures & Algorithms Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS231",
+                                    "name": "Discrete Mathematics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "ES205",
+                                    "name": "Advanced Linear Algebra",
+                                    "ch": 3
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 4,
+                            "courses": [
+                                {
+                                    "code": "CE222",
+                                    "name": "Computer Organization & Assembly Language",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CE222L",
+                                    "name": "Computer Organization & Assembly Language Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS224",
+                                    "name": "Formal Languages and Automata Theory",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS232",
+                                    "name": "Database Management Systems",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS232L",
+                                    "name": "Database Management Systems Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS272",
+                                    "name": "Human Computer Interface and Computer Graphics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM211",
+                                    "name": "Islamic Studies",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "SE202L",
+                                    "name": "Development Operations Lab",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 5,
+                            "courses": [
+                                {
+                                    "code": "CS311",
+                                    "name": "Operating Systems",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS311L",
+                                    "name": "Operating Systems Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS325",
+                                    "name": "Software Engineering",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS342",
+                                    "name": "Advanced Database Management Systems",
+                                    "ch": 4
+                                },
+                                {
+                                    "code": "CS351",
+                                    "name": "Artificial Intelligence",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS351L",
+                                    "name": "Artificial Intelligence Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS391",
+                                    "name": "Entrepreneurship & Technology Commercialization",
+                                    "ch": 2
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 6,
+                            "courses": [
+                                {
+                                    "code": "CE313",
+                                    "name": "Computer Communications & Networks",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS324",
+                                    "name": "Computer Architecture",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS334",
+                                    "name": "Compiler Construction",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS334L",
+                                    "name": "Compiler Construction Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS392",
+                                    "name": "Software Project Management",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CX3xx",
+                                    "name": "Area Elective I",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM112",
+                                    "name": "Ideology and Constitution of Pakistan",
+                                    "ch": 2
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 7,
+                            "courses": [
+                                {
+                                    "code": "CS478",
+                                    "name": "Design & Analysis of Algorithms",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS481",
+                                    "name": "Senior Design Project (Part-I)",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS493",
+                                    "name": "Scientific Communication",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS4xx",
+                                    "name": "Technical Elective",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CX4xx",
+                                    "name": "Area Elective II",
+                                    "ch": 3
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 8,
+                            "courses": [
+                                {
+                                    "code": "CS417",
+                                    "name": "Parallel Processing & Distributed Computing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS465",
+                                    "name": "Data & Network Security",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS482",
+                                    "name": "Senior Design Project (Part II)",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS494",
+                                    "name": "Professional Issues in IT",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "HM323",
+                                    "name": "Civics and Community Engagement",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CX4xx",
+                                    "name": "Area Elective III",
+                                    "ch": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "faculty_name": "Faculty of Electrical Engineering",
+            "programs": [
+                {
+                    "program_name": "BS Electrical Engineering",
+                    "semesters": [
+                        {
+                            "semester": 1,
+                            "courses": [
+                                {
+                                    "code": "CH101",
+                                    "name": "Applied Chemistry & Environment",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CH161",
+                                    "name": "Occupational Health and Safety",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS101",
+                                    "name": "Computing and AI",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "HM101",
+                                    "name": "Communication Skills",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "MT101",
+                                    "name": "Calculus I",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "MM101",
+                                    "name": "Materials and Nanotechnology",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MM141L",
+                                    "name": "Materials Lab 1",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "IF101L",
+                                    "name": "Innovation and Makers Lab-1",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "CS101L",
+                                    "name": "Computing and AI Lab",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 2,
+                            "courses": [
+                                {
+                                    "code": "CS112",
+                                    "name": "Object Oriented Programming and Design",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "AI102",
+                                    "name": "Python Programming and Freelancing Essentials",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "ES111",
+                                    "name": "Probability and Statistics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM102",
+                                    "name": "Critical Thinking and Expository Writing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "PH101",
+                                    "name": "Applied Physics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "PH101L",
+                                    "name": "Applied Physics Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MT102",
+                                    "name": "Differential Equations & Linear Algebra",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "CS112L",
+                                    "name": "Object Oriented Programming and Design Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "IF102L",
+                                    "name": "Innovation & Makers Lab-2",
+                                    "ch": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "faculty_name": "School of Management Sciences",
+            "programs": [
+                {
+                    "program_name": "BS Management Sciences",
+                    "semesters": [
+                        {
+                            "semester": 1,
+                            "courses": [
+                                {
+                                    "code": "HM101",
+                                    "name": "Communication Skills",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "HM101-L",
+                                    "name": "Communication Skills Lab",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS101",
+                                    "name": "Computing and AI",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "CS101-L",
+                                    "name": "Computing and AI Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MS101",
+                                    "name": "Business Mathematics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM111",
+                                    "name": "Islamic Studies/ Ethics",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MS121",
+                                    "name": "Fundamentals of Management",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "MS131",
+                                    "name": "Principles of Marketing",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "IF101",
+                                    "name": "Innovation and Makers Lab 1",
+                                    "ch": 1
+                                }
+                            ]
+                        },
+                        {
+                            "semester": 2,
+                            "courses": [
+                                {
+                                    "code": "HM102",
+                                    "name": "Critical Thinking and Expository Writing",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "HM102-L",
+                                    "name": "Critical Thinking and Expository Writing Lab",
+                                    "ch": 1
+                                },
+                                {
+                                    "code": "MS102",
+                                    "name": "Business Statistics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "HM112",
+                                    "name": "Ideology and Constitution of Pakistan",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "HM121",
+                                    "name": "Civics and Community Engagement",
+                                    "ch": 2
+                                },
+                                {
+                                    "code": "MS141",
+                                    "name": "Microeconomics",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "MS151",
+                                    "name": "Financial Accounting",
+                                    "ch": 3
+                                },
+                                {
+                                    "code": "IF102",
+                                    "name": "Innovation and Makers Lab 2",
+                                    "ch": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

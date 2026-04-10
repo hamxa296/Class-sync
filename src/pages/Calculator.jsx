@@ -166,21 +166,6 @@ export default function CalculatorPage() {
             <h2>Your Course Configuration</h2>
             <p>{syncing ? 'Verifying records...' : 'Customize your grades for the semester.'}</p>
           </div>
-          <button 
-            className="btn btn-primary" 
-            onClick={() => saveToFirebase(courses)} 
-            disabled={isSaving}
-          >
-            {isSaving ? (
-              <>
-                <Loader2 className="animate-spin" size={18} /> Saving...
-              </>
-            ) : (
-              <>
-                <Save size={18} /> Save Plan
-              </>
-            )}
-          </button>
         </div>
 
         {courses.length === 0 ? (
@@ -331,7 +316,24 @@ export default function CalculatorPage() {
           <div className="gpa-label">Estimated Semester GPA</div>
           <div style={{ color: 'var(--text-secondary)' }}>Based on {totalCH} Total Credit Hours</div>
         </div>
-        <div className="gpa-value">{gpa}</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '2rem' }}>
+          <button 
+            className="btn btn-primary" 
+            onClick={() => saveToFirebase(courses)} 
+            disabled={isSaving}
+          >
+            {isSaving ? (
+              <>
+                <Loader2 className="animate-spin" size={18} /> Saving...
+              </>
+            ) : (
+              <>
+                <Save size={18} /> Save Plan
+              </>
+            )}
+          </button>
+          <div className="gpa-value" style={{ margin: 0 }}>{gpa}</div>
+        </div>
       </div>
     </div>
   );

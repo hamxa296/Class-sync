@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ArrowRight, MessageSquare, HelpCircle } from 'lucide-react';
+import { ArrowRight, MessageSquare, HelpCircle, Calculator } from 'lucide-react';
 import { DATA } from '../data/faculties';
 
 export default function Home() {
@@ -34,7 +34,10 @@ export default function Home() {
   return (
     <div style={{ maxWidth: '600px', margin: '4rem auto' }}>
       <div className="card">
-        <h1 style={{ textAlign: 'center', marginBottom: '2rem' }}>GIKI GPA Calculator</h1>
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1rem', marginBottom: '2rem' }}>
+          <Calculator size={32} color="var(--accent-color)" />
+          <h1 style={{ margin: 0 }}>GIKI GPA Tracker</h1>
+        </div>
         
         <form onSubmit={handleStart}>
           <div className="form-group">

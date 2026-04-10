@@ -17,7 +17,7 @@ function App() {
       <header className="header-bar">
         <Link to="/" className="brand">
           <Calculator size={24} />
-          <span>GPA Tracker</span>
+          <span>GIKI GPA Tracker</span>
         </Link>
       </header>
       
